@@ -1,11 +1,22 @@
 {
-  "name": "is-str",
+  "name": "first-npm-package",
   "version": "1.0.0",
-  "description": "This package checks whether the provided argument is string or not.",
+  "description": "",
   "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/skh1827532/First-npm-packagehttps:.git"
+  },
+  "author": "sanjay-kumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/skh1827532/First-npm-packagehttps:/issues"
+  },
+  "homepage": "https://github.com/skh1827532/First-npm-packagehttps:#readme"
 }
